@@ -1,0 +1,2 @@
+#!/bin/bash
+echo ls -la > "Is_cwd_content"
