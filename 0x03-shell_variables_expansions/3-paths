@@ -1,2 +1,2 @@
 #!/bin/bash
-tree $PATH | wc l
+echo tree $PATH | wc -l
